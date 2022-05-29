@@ -1,10 +1,10 @@
 // link to page creation
-const generateHTML = require('./src/generateHTML');
+const generateHTML = require('./src/generate.html');
 
 // team profiles
-const Manager = require('./test/Manager');
-const Engineer = require('./test/Engineer');
-const Intern = require('./test/Intern'); 
+const Manager = require('./Manager.test');
+const Engineer = require('./tests/Engineer');
+const Intern = require('./tests/Intern'); 
 
 // node modules 
 const fs = require('fs'); 

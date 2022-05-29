@@ -2,9 +2,9 @@
 const generateHTML = require('./src/generateHTML');
 
 // team profiles
-const Manager = require('./lib/Manager');
-const Engineer = require('./lib/Engineer');
-const Intern = require('./lib/Intern'); 
+const Manager = require('./test/Manager');
+const Engineer = require('./test/Engineer');
+const Intern = require('./test/Intern'); 
 
 // node modules 
 const fs = require('fs'); 

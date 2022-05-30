@@ -118,15 +118,8 @@ In addition to `Employee`'s properties and methods, `Intern` will also have:
 Finally, although it’s not a requirement, you should consider adding validation to ensure that the user input provided is in the proper expected format.
 
 
-## Review
 
-You are required to submit the following for review:
 
-* A walkthrough video demonstrating the functionality of the application and passing tests.
 
-* A sample HTML file generated using your application.
+https://user-images.githubusercontent.com/101297588/170903455-8d304789-f435-492a-bdef-4cb77e72928e.mp4
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
